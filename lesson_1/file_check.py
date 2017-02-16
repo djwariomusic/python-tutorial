@@ -6,7 +6,7 @@ import csv
 import errno
 from pathlib import Path
 
-from lesson_1.format_validator import FormatValidator
+from format_validator import FormatValidator
 
 
 class FileCheck(object):
