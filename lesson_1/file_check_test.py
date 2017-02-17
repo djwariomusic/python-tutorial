@@ -5,7 +5,7 @@ Test for the main program
 import errno
 import unittest
 
-from lesson_1.file_check import FileCheck
+from file_check import FileCheck
 
 
 # Test Suite in order to organize our tests by groups of functionality
